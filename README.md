@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aman!
 
-🎓 B.Tech ECE Student | 💻 Developer | 🚀 Tech Enthusiast  
+🎓 B.Tech ECE Student | 💻 Developer | 🚀 Tech Enthusiast | 🔍 **Passionate about Full Stack Development, Machine Learning & DSA**
 Currently pursuing B.Tech in Electronics and Communication Engineering at **Jaypee Institute Of Information Technology** (2023–2027)
 
 ---
