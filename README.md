@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aman!
 
-🎓 **B.Tech ECE Student** | 💻 **Developer** | 🚀 **Tech Enthusiast** | 🧠 **ML Learner** | 🧩 **DSA & Competitive Programming Enthusiast** | 🌐 **Web Development Explorer**
+🎓 **B.Tech ECE Student** | 💻 **Developer** | 🚀 **Tech Enthusiast** | 🧠 **ML Learner** | 🧩 **DSA & Competitive Programming Aficionado** | 🌐 **Web Development Explorer**
 
 Currently pursuing B.Tech in Electronics and Communication Engineering at **Jaypee Institute of Information Technology** (2023–2027)
 
