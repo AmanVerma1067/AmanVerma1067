@@ -63,8 +63,8 @@ _Skills:_ Project Management, English, Team Leadership, Python, HTML
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(Insert your LinkedIn profile link here)*
-- 📬 **Email:** *(Insert your email here if you'd like to share it)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amanverma1067/)
+- 📬 **Email:** *amanverma1067@gmail.com*
 - 🧑‍💻 **Portfolio/Website:** Coming soon...
 
 ---
