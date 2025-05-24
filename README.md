@@ -4,8 +4,6 @@
 
 Currently pursuing B.Tech in Electronics and Communication Engineering at **Jaypee Institute of Information Technology** (2023–2027)
 
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVerma1067&show_icons=true)](https://github.com/AmanVerma1067/github-readme-stats&show_icons=true)
-
 ---
 
 ## 🧠 About Me
@@ -19,6 +17,9 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 ---
 
 ## 💻 Tech Stack
+
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVerma1067&show_icons=true&theme=transparent)](https://github.com/AmanVerma1067/github-readme-stats&show_icons=true&theme=transparent)
+
 
 ### 🚀 Languages & Programming
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
