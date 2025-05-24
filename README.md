@@ -18,7 +18,9 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 
 ## 💻 Tech Stack
 
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVerma1067&show_icons=true&theme=transparent)](https://github.com/AmanVerma1067/github-readme-stats&show_icons=true&theme=transparent)
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVerma1067&show_icons=true&theme=algolia)](https://github.com/AmanVerma1067/github-readme-stats&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVerma1067&layout=compact)](https://github.com/AmanVerma1067/github-readme-stats&layout=compact)
 
 
 ### 🚀 Languages & Programming
