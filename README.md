@@ -4,6 +4,8 @@
 
 Currently pursuing B.Tech in Electronics and Communication Engineering at **Jaypee Institute of Information Technology** (2023–2027)
 
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AmanVerma1067/github-readme-stats)
+
 ---
 
 ## 🧠 About Me
