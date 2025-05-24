@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aman!
 
-🎓 **B.Tech ECE Student** | 💻 **Developer** | 🚀 **Tech Enthusiast** | 🧠 **ML Learner** | 🧩 **DSA & Competitive Programming Aficionado** | 🌐 **Web Development Explorer**
+🎓 **B.Tech 3rd Year Student**  | 🚀 **Tech Enthusiast** | 🧠 **ML Learner** | 🧩 **Competitive Programming Aficionado** | 🌐 **Web & App Developer**
 
 Currently pursuing B.Tech in Electronics and Communication Engineering at **Jaypee Institute of Information Technology** (2023–2027)
 
@@ -8,20 +8,23 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **SahYatri - Live Bus Occupancy Android App** using **Flutter**
-- 🌱 Learning **Flutter**, **React.js**, and diving deeper into **Advanced Machine Learning**
-- 💡 Passionate about building **intelligent applications** and **polished user experiences**
-- ⚙️ Interested in **DSA (Competitive Programming)**, **Web Development**, and **Mobile App Development**
-- 🎯 Actively working on side projects during my summer break to level up my dev skills
+- 🔭 Building **SahYatri (Flutter App)** and **NeuroMath (ML Web App)** as summer projects
+- 🌱 Learning **Flutter**, **React.js**, and exploring **Deep Learning** with PyTorch
+- 💡 Passionate about crafting **intelligent systems** and sleek **user experiences**
+- ⚙️ Keen interest in **DSA**, **Mobile/Web Dev**, and **Applied ML**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanVerma1067&show_icons=true&theme=algolia&rank_icon=github&include_all_commits" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVerma1067&layout=compact&theme=algolia&include_all_commits" height="165">
+</p>
 
 ---
 
 ## 💻 Tech Stack
-
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanVerma1067&show_icons=true&theme=algolia)](https://github.com/AmanVerma1067/github-readme-stats&show_icons=true&theme=algolia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVerma1067&layout=compact)](https://github.com/AmanVerma1067/github-readme-stats&layout=compact)
-
 
 ### 🚀 Languages & Programming
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -37,7 +40,9 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### 📊 ML & Tools
+### 🧠 ML & Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -47,31 +52,24 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 ## 🛠️ Projects
 
 ### 🚍 SahYatri – Live Bus Occupancy App
-- 📱 **Flutter-based Android App**
-- 🔄 Displays real-time bus occupancy via API integration
-- 🌗 Light/Dark mode toggle, animated UI, and offline support
-- 🧠 Features include color-coded occupancy bars, full-bus notifications, and auto-refresh
+- 📱 **Flutter Android app** that shows real-time bus occupancy using API
+- 🌗 Supports dark/light mode, auto-refresh, offline fallback
+- 🧠 Features: color-coded bars, full-bus notifications, animations
 
-(✨ More projects coming soon... Stay tuned!)
-
----
-
-## 📚 Education
-
-**Jaypee Institute of Information Technology** (2023–2027)  
-_Skills:_ C++, Python, Machine Learning, HTML5, C, CSS, Tailwind CSS, JavaScript, MySQL, PHP, Flutter
-
-**Kendriya Vidyalaya** (2010–2022)  
-_Skills:_ Project Management, English, Team Leadership, Python, HTML
+### 🧮 NeuroMath – Handwritten Math Expression Solver
+- 🧠 **Deep learning-based app** for solving handwritten math using **PyTorch & Flask**
+- 🖊️ Supports digits (0–9) and operators (+, −, ×, ÷) with real-time results
+- 🧩 Interactive canvas with touch support; includes model training pipeline
 
 ---
 
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amanverma1067/)
-- 📬 **Email:** *amanverma1067@gmail.com*
-- 🧑‍💻 **Portfolio/Website:** Coming soon...
+- 📬 **Email:** amanverma1067@gmail.com
+- 🧑‍💻 **Portfolio:** Coming soon...
 
 ---
 
 _Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ if you find something interesting._
+
