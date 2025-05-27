@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aman!
+# 👋 Hi there, I'm Aman! 
 
 🎓 **B.Tech 3rd Year Student**  | 🚀 **Tech Enthusiast** | 🧠 **ML Learner** | 🧩 **Competitive Programming Aficionado** | 🌐 **Web & App Developer**
 
