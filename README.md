@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aman!
 
-🎓 **B.Tech 3rd Year Student** | 🚀 **Tech Enthusiast** | 🧠 **AI & ML Learner** |🧩 **Competitive Programming Aficionado** | 🌐 **Web & App Developer**
+🎓 **B.Tech 3rd Year Student** | 🚀 **Tech Enthusiast** | 🧠 **AI & ML Learner** |🧩 **DSA Aficionado** | 🌐 **Web & App Developer**
 
 Currently pursuing B.Tech in Electronics and Communication Engineering at **Jaypee Institute of Information Technology** (2023–2027)
 
