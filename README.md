@@ -65,23 +65,36 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 
 ## 🛠️ Projects
 
-### 🚍 SahYatri – Live Bus Occupancy App
-- 📱 **Flutter Android app** that shows real-time bus occupancy using API
-- 🌗 Supports dark/light mode, auto-refresh, offline fallback
-- 🧠 Features: color-coded bars, full-bus notifications, animations
-
-### 🧮 NeuroMath – Handwritten Math Expression Solver
-- 🧠 **Deep learning-based web app** using **PyTorch & Flask**
-- ✍️ Recognizes handwritten digits (0–9) & operators (+, −, ×, ÷) with real-time computation
-- 🧩 Responsive canvas with touch support; includes model training pipeline
-
-### ♟️ Chessify – Python Chess Bot with GUI & Opening Book
-- 🧠 A beginner-friendly chess bot using **Python, Pygame**, and **python-chess**
-- 🎮 Features **Minimax AI**, piece animation, legal move highlights, and material score
-- 📘 Integrated **Polyglot opening book** for early-game strategy
-- 👑 Displays endgame states like checkmate, stalemate, and draw
+### 🚍 SahYatri – Intelligent Public Transport Analytics Platform  
+[🔗 GitHub Repository](https://github.com/AmanVerma1067/SahYatri) • [📱 Android App (APK)](https://github.com/AmanVerma1067/sahyatri_apk)  
+SahYatri is an **IoT-enabled transportation informatics system** designed to optimize mass transit operations through **real-time passenger density analytics**.  
+This comprehensive solution integrates:
+- 🧠 **Embedded edge computing** for on-device crowd estimation  
+- 👁️ **Computer vision models** for live occupancy detection  
+- 🌐 **Full-stack interfaces**: dashboard, APIs, and Flutter mobile app  
+- 🌗 **Dark/light mode**, auto-refresh, offline fallback, and intuitive UI  
+- 🔔 **Notifications**, animations, and smooth UX for live monitoring  
 
 ---
+
+### 🧮 NeuroMath – Handwritten Math Expression Solver  
+[🔗 GitHub Repository](https://github.com/AmanVerma1067/NeuroMath)  
+A **deep learning-based web app** built with **PyTorch & Flask** for solving handwritten math expressions.  
+- ✍️ Recognizes handwritten digits (0–9) & operators (+, −, ×, ÷)  
+- ⚙️ Includes model training pipeline and pre-processing steps  
+- 📲 Responsive canvas with touch/mouse support  
+- 🧮 Performs real-time parsing and computation  
+
+---
+
+### ♟️ Chessify – Python Chess Bot with GUI & Opening Book  
+[🔗 GitHub Repository](https://github.com/AmanVerma1067/Chessify)  
+A **beginner-friendly chess bot** made using **Python, Pygame**, and **python-chess**.  
+- 🧠 Implements **Minimax AI** with a basic evaluation function  
+- 🎮 Includes **piece animations**, legal move highlights, and GUI  
+- 📘 Supports **Polyglot opening book** for early game strategy  
+- 👑 Detects **checkmate, stalemate, draw**, and shows material stats  
+
 
 ## 📫 Let's Connect
 
@@ -94,3 +107,4 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 _Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ if you find something interesting._
 
 ---
+
