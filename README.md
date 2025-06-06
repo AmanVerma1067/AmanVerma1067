@@ -32,8 +32,7 @@ This comprehensive solution integrates:
 - 🧠 **Embedded edge computing** for on-device crowd estimation  
 - 👁️ **Computer vision models** for live occupancy detection  
 - 🌐 **Full-stack interfaces**: dashboard, APIs, and Flutter mobile app  
-- 🌗 **Dark/light mode**, auto-refresh, offline fallback, and intuitive UI  
-- 🔔 **Notifications**, animations, and smooth UX for live monitoring  
+- 🌗 **Dark/light mode**, auto-refresh, offline fallback, and intuitive UI
 
 ---
 
@@ -44,7 +43,6 @@ Beautiful and handy **timetable manager** featuring:
 - 🌙 Dark/Light mode toggle  
 - 📱 Offline caching & auto-sync  
 - 🎨 Color-coded subjects  
-- 🔄 Pull-to-refresh & week switching  
 
 ### 🧮 NeuroMath – Handwritten Math Solver  
 [🔗 GitHub Repository](https://github.com/AmanVerma1067/NeuroMath)  
