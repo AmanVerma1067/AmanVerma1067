@@ -46,11 +46,11 @@ This comprehensive solution integrates:
 [🔗 GitHub Repository](https://github.com/AmanVerma1067/StudySync)  
 <p></p>
 
-A beautiful and handy **timetable manager** with modern UI/Ux featuring:  
-- 🗓️ Weekly view with tab navigation  
+A beautiful and handy **timetable manager** with modern UI/UX featuring:  
+- 🗓️ Weekly timetable view with tab navigation  
 - 🌙 Dark/Light mode toggle & liquid pull to refresh
-- 📱 Offline caching & auto-sync  
-- 🎨 Color-coded subjects  
+- 📱 Offline caching & auto-sync with remote timetable data
+- 🎨 Color-coded subjects for quick identification
 
 ### 🧮 NeuroMath – Handwritten Math Solver  
 [🔗 GitHub Repository](https://github.com/AmanVerma1067/NeuroMath)  
