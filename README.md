@@ -32,6 +32,7 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 ### 🚍 SahYatri – Intelligent Public Transport Analytics Platform  
 [🔗 GitHub Repository](https://github.com/AmanVerma1067/SahYatri) • [📱 Android Application (APK)](https://github.com/AmanVerma1067/sahyatri_apk)
 <p></p>
+
 SahYatri is an **IoT-enabled transportation informatics system** designed to optimize mass transit operations through **real-time passenger density analytics**.  
 This comprehensive solution integrates:
 - 🧠 **Embedded edge computing** for on-device crowd estimation  
@@ -44,15 +45,17 @@ This comprehensive solution integrates:
 ### 📚 StudySync – Smart Timetable App (Flutter)  
 [🔗 GitHub Repository](https://github.com/AmanVerma1067/StudySync)  
 <p></p>
-Beautiful and handy **timetable manager** featuring:  
+
+A beautiful and handy **timetable manager** with modern UI/Ux featuring:  
 - 🗓️ Weekly view with tab navigation  
-- 🌙 Dark/Light mode toggle  
+- 🌙 Dark/Light mode toggle & liquid pull to refresh
 - 📱 Offline caching & auto-sync  
 - 🎨 Color-coded subjects  
 
 ### 🧮 NeuroMath – Handwritten Math Solver  
 [🔗 GitHub Repository](https://github.com/AmanVerma1067/NeuroMath)  
 <p></p>
+
 A **deep learning-based web app** built with **PyTorch & Flask** for solving handwritten math expressions.  
 - ✍️ Recognizes handwritten digits (0–9) & operators (+, −, ×, ÷)  
 - ⚙️ Includes model training pipeline and pre-processing steps  
@@ -63,6 +66,7 @@ A **deep learning-based web app** built with **PyTorch & Flask** for solving han
 ### ♟️ Chessify – Python Chess Bot  
 [🔗 GitHub Repository](https://github.com/AmanVerma1067/Chessify)  
 <p></p>
+
 A **beginner-friendly chess bot** made using **Python, Pygame**, and **python-chess**.  
 - 🧠 Implements **Minimax AI** with a basic evaluation function  
 - 🎮 Includes **piece animations**, legal move highlights, and GUI  
