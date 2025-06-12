@@ -112,7 +112,7 @@ A **beginner-friendly chess bot** made using **Python, Pygame**, and **python-ch
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amanverma1067/)
 - 📬 **Email:** amanverma1067@gmail.com
-- 🧑‍💻 **Portfolio:** aman1067.xyz
+- 🧑‍💻 **Portfolio:** https://www.aman1067.xyz/
 ---
 
 _Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ if you find something interesting._
