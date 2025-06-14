@@ -10,7 +10,7 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,python,cpp,js,flutter,androidstudio,docker,git,ai,tensorflow,pytorch,fastapi" />
+    <img src="https://skillicons.dev/icons?i=linux,python,cpp,js,flutter,androidstudio,docker,git,ai,tensorflow,pytorch,fastapi&perline=6" />
   </a>
 </p>
 
