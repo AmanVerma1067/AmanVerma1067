@@ -58,6 +58,19 @@ A beautiful and handy **timetable manager** with modern UI/UX featuring:
 - 📱 Offline caching & auto-sync with remote timetable data
 - 🎨 Color-coded subjects for quick identification
 
+ ---
+### ♟️🌐 Chessify AI – Web App  
+WebApp: [🔗 GitHub Repository](https://github.com/AmanVerma1067/Chessify-WebApp) • Chess-Bot: [🔗 GitHub Repository](https://github.com/AmanVerma1067/Chessify)  
+<p></p>
+
+An interactive **full-stack chess platform** powered by **Next.js**, **TypeScript**, and a custom **Flask backend**.  
+- ♟️ Play against AI with real-time move feedback  
+- ⚙️ REST API integration using `/get_bot_move`  
+- 🎨 Sleek UI with drag-and-drop + click-to-move support  
+- 🌙 Supports dark mode, animations, and system messages  
+- 💡 Highlights legal moves, check, checkmate, and more  
+---
+
 ### 🧮 NeuroMath – Handwritten Math Solver  
 [🔗 GitHub Repository](https://github.com/AmanVerma1067/NeuroMath)  
 <p></p>
@@ -68,18 +81,6 @@ A **deep learning-based web app** built with **PyTorch & Flask** for solving han
 - 📲 Responsive canvas with touch/mouse support  
 - 🧮 Performs real-time parsing and computation  
 
----
-### ♟️ Chessify – Python Chess Bot  
-[🔗 GitHub Repository](https://github.com/AmanVerma1067/Chessify)  
-<p></p>
-
-A **beginner-friendly chess bot** made using **Python, Pygame**, and **python-chess**.  
-- 🧠 Implements **Minimax AI** with a basic evaluation function  
-- 🎮 Includes **piece animations**, legal move highlights, and GUI  
-- 📘 Supports **Polyglot opening book** for early game strategy  
-- 👑 Detects **checkmate, stalemate, draw**, and shows material stats  
-
----
 ## 💻 Tech Stack
 
 ### 🚀 Core Languages
