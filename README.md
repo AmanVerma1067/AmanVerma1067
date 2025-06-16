@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=4000&pause=800&color=64FFDA&background=0A192FC5&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Tech+Enthusiast;%F0%9F%A7%A0+AI+%26+ML+Learner++;%F0%9F%A7%A9+DSA+Aficionado;%F0%9F%8C%90+Web+%26+App+Developer" alt="Typing SVG" /></a>
 </p>
 
-
 Currently pursuing B.Tech in Electronics and Communication Engineering at **Jaypee Institute of Information Technology** (2023–2027)
 
 <p align="center">
@@ -13,6 +12,7 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
     <img src="https://skillicons.dev/icons?i=linux,python,cpp,js,flutter,androidstudio,docker,git,ai,tensorflow,pytorch,fastapi&perline=6" />
   </a>
 </p>
+[Profile Views](https://komarev.com/ghpvc/?username=AmanVerma1067)
 
 ---
 
