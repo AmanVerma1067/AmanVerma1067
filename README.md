@@ -12,7 +12,7 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
     <img src="https://skillicons.dev/icons?i=linux,python,cpp,js,flutter,androidstudio,docker,git,ai,tensorflow,pytorch,fastapi&perline=6" />
   </a>
 </p>
-[Profile Views](https://komarev.com/ghpvc/?username=AmanVerma1067)
+<!--[Profile Views](https://komarev.com/ghpvc/?username=AmanVerma1067)-->
 
 ---
 
