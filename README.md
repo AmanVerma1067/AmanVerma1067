@@ -71,6 +71,7 @@ An interactive **full-stack chess platform** powered by **Next.js**, **TypeScrip
 - 💡 Highlights legal moves, check, checkmate, and more  
 ---
 
+<!--
 ### 🧮 NeuroMath – Handwritten Math Solver  
 [🔗 GitHub Repository](https://github.com/AmanVerma1067/NeuroMath)  
 <p></p>
@@ -80,6 +81,7 @@ A **deep learning-based web app** built with **PyTorch & Flask** for solving han
 - ⚙️ Includes model training pipeline and pre-processing steps  
 - 📲 Responsive canvas with touch/mouse support  
 - 🧮 Performs real-time parsing and computation  
+-->
 
 ## 💻 Tech Stack
 
