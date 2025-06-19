@@ -60,7 +60,8 @@ A beautiful and handy **timetable manager** with modern UI/UX featuring:
 
  ---
 ### ♟️🌐 Chessify AI – Web App  
-WebApp: [🔗 GitHub Repository](https://github.com/AmanVerma1067/Chessify-WebApp) • Chess-Bot: [🔗 GitHub Repository](https://github.com/AmanVerma1067/Chessify)  
+- WebApp: [🔗 GitHub Repository](https://github.com/AmanVerma1067/Chessify-WebApp) 
+- Chess-Bot: [🔗 GitHub Repository](https://github.com/AmanVerma1067/Chessify)  
 <p></p>
 
 An interactive **full-stack chess platform** powered by **Next.js**, **TypeScript**, and a custom **Flask backend**.  
