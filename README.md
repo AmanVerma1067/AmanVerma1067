@@ -32,6 +32,13 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmanVerma1067&theme=algolia&no-bg=true&margin-w=15&margin-h=15&no-frame=true&column=6&title=MultiLanguage,Commit,Repositories,Followers,Experience,Stars" />
+</p>
+
+---
 
 ## 🛠️ Projects
 
