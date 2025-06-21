@@ -27,7 +27,7 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmanVerma1067&show_icons=true&theme=algolia&rank_icon=github&include_all_commits=true" height="165">
+  <img src="https://my-readme-stats-blue.vercel.app/api?username=AmanVerma1067&show_icons=true&theme=algolia&rank_icon=github&include_all_commits=true&cache_seconds=7200" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanVerma1067&layout=compact&theme=algolia&include_all_commits" height="165">
 </p>
 
