@@ -18,7 +18,7 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
 
 ## 🧠 About Me
 
-- 🔭 Currently building **StudySync (Timetable App)**, **Chessify (Chess-Bit WebApp)**,  & **NeuroMath (ML Web App)**
+- 🔭 Currently building **StudySync (Timetable App)**, **Chessify (Chess-Bot WebApp)**,  & **NeuroMath (ML Web App)**
 - 🌱 Exploring **Data Science**, **Generative AI**, and modern **Web/Mobile App Development**
 - 💡 Passionate about crafting intelligent systems with polished UI/UX
 
