@@ -32,8 +32,8 @@ Currently pursuing B.Tech in Electronics and Communication Engineering at **Jayp
   <img src="https://my-readme-stats-blue.vercel.app/api?username=AmanVerma1067&show_icons=true&theme=algolia&rank_icon=github&include_all_commits=true&cache_seconds=7200" height="165">
   <img src="https://my-readme-stats-blue.vercel.app/api/top-langs/?username=AmanVerma1067&layout=compact&theme=algolia&cache_seconds=7200" height="165">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AmanVerma1067&theme=transparent&background=45%2CE5EBBE%2CC1EB2A&fire=EB5454&currStreakNum=EB5454&currStreakLabel=EB5454&dates=481FEB&stroke=EB5454" alt="GitHub Streak" height="165" />
-  </a>
+  <img src="https://github-readme-streak-stats-lovat-delta.vercel.app?user=AmanVerma1067&theme=transparent&background=45%2CE5EBBE%2CC1EB2A&fire=EB5454&currStreakNum=EB5454&currStreakLabel=EB5454&dates=481FEB&stroke=EB5454" alt="GitHub Streak" height="165" />
+</a>
 </p>
 
 ---
