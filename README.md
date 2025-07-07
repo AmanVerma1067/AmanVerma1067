@@ -121,7 +121,6 @@ A **deep learning-based web app** built with **PyTorch & Flask** for solving han
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-9C27B0?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🛠️ Dev Tools & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
