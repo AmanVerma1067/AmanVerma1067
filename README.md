@@ -2,16 +2,21 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+Systems;Crafting+Seamless+User+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+Systems;Mastering+DSA+%26+Algorithms;Crafting+Seamless+User+Experiences)](https://git.io/typing-svg)
 
+</div>
 
 <div align="center">
   
 🎓 **Electronics & Communication Engineering** @ JIIT (2023–2027)  
 🚀 Transforming ideas into scalable solutions with clean code & modern tech
+
 </div>
 
-## Skills Section 
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
+
 <div align="center">
 
 ### Languages & Core
@@ -49,7 +54,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
@@ -59,7 +63,6 @@
 ---
 
 ## 🎯 Current Focus
-
 ```javascript
 const aman = {
     learning: ["Data Science", "Generative AI", "Advanced DSA"],
