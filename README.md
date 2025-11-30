@@ -9,8 +9,8 @@
   
 🎓 **Electronics & Communication Engineering** @ JIIT (2023–2027)  
 🚀 Transforming ideas into scalable solutions with clean code & modern tech
-
-```markdown
+</div>
+---
 <div align="center">
 
 ### Languages & Core
@@ -54,7 +54,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 </div>
-```
 
 ---
 
