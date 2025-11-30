@@ -10,7 +10,8 @@
 🎓 **Electronics & Communication Engineering** @ JIIT (2023–2027)  
 🚀 Transforming ideas into scalable solutions with clean code & modern tech
 </div>
----
+
+##Skills Section 
 <div align="center">
 
 ### Languages & Core
