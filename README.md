@@ -172,7 +172,7 @@ Check out my repositories for:
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy-one-gamma.vercel.app/?username=AmanVerma1067&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience,Issues" />
+  <img src="https://github-profile-trophy-one-gamma.vercel.app/?username=AmanVerma1067&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience,PullRequest" />
 </div>
 
 ---
